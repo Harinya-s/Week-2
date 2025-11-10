@@ -1,0 +1,10 @@
+Smart-Pest-Detection-System/
+│
+├── README.md
+├── requirements.txt
+├── train_model.py
+├── test_model.py
+├── data/
+│   └── Vegetable_Plant_Pests/
+└── outputs/
+    └── model_summary.txt
